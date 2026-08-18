@@ -1,10 +1,6 @@
 ![](https://github.com/attarwahyup/README.md/blob/main/gif.gif)
 
-```text
-attar@security-core:~$ uname -r
-Linux 6.8.0-custom-hardened x86_64
-
-// SYSTEM PROFILE
+## SYSTEM PROFILE
 
     Identity: Attar W.P.
 
@@ -14,7 +10,7 @@ Linux 6.8.0-custom-hardened x86_64
 
     Enclave: cijasmin.id (Isolated Enterprise Lab Environment)
 
-// SYSTEM DEMO & VISUALIZATION
+### SYSTEM DEMO & VISUALIZATION
 // CORE TOOLING & STACK
 YAML
 
@@ -39,17 +35,13 @@ Perimeter     : [ Cloudflare Tunnels (ZTNA), WAF Hardening, Nginx ]
 
         Desc: Rangkaian skrip pemetaan permukaan serang (Attack Surface) yang dibungkus dalam kontainer Docker terisolasi.
 
-// SECURE COMMS
+## SECURE COMMS
 
     GitHub: github.com/attarwahyup
 
-    LinkedIn: linkedin.com/in/LINKEDIN_LU
+    LinkedIn: https://www.linkedin.com/in/attar-wahyu-43130529b/
 
     Keybase / PGP: Available upon request.
-
-Plaintext
-
-[connection closed by remote host]
 
 
 

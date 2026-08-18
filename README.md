@@ -1,6 +1,5 @@
 ![](https://github.com/attarwahyup/README.md/blob/main/gif.gif)
 
-
 ```text
 attar@security-core:~$ uname -r
 Linux 6.8.0-custom-hardened x86_64
